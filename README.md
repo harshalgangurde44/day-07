@@ -1,2 +1,2 @@
 # day-07
-Created with CodeSandbox
+Reusable Modal / Dialog Component
